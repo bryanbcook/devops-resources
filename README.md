@@ -47,3 +47,6 @@ PAT Tokens:
 
 - [Extensions manifest reference](https://learn.microsoft.com/en-us/azure/devops/extend/develop/manifest?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops)
 - [tasks.schema.json](https://github.com/Microsoft/azure-pipelines-task-lib/blob/master/tasks.schema.json)
+- [microsoft/azure-pipelines-task-lib](https://github.com/microsoft/azure-pipelines-task-lib/tree/master)
+  - [node](https://github.com/microsoft/azure-pipelines-task-lib/tree/master/node)
+  - [powershell](https://github.com/microsoft/azure-pipelines-task-lib/tree/master/powershell)
