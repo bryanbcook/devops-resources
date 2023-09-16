@@ -22,6 +22,7 @@ My list of go-to pages during YAML development:
 - [Expressions](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops)
 - [Templates](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
 - [Runtime parameters](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/runtime-parameters?view=azure-devops&tabs=script)
+- [Pipeline run sequence](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/runs?view=azure-devops)
 - [Tasks Reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
 - [Tasks (source-code)](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks)
 
@@ -29,4 +30,10 @@ My list of go-to pages during YAML development:
 
 - [Azure DevOps REST API (Home)](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
 
+PAT Tokens:
 
+- [List of available scopes](https://learn.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#scopes)
+
+### Build Agents
+
+- [actions/runner-images](https://github.com/actions/runner-images)
