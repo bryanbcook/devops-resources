@@ -25,15 +25,25 @@ My list of go-to pages during YAML development:
 - [Pipeline run sequence](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/runs?view=azure-devops)
 - [Tasks Reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
 - [Tasks (source-code)](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks)
-
-### Azure DevOps REST API
-
-- [Azure DevOps REST API (Home)](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
-
-PAT Tokens:
-
-- [List of available scopes](https://learn.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#scopes)
+  - [AzureKeyVaultV2](https://github.com/microsoft/azure-pipelines-tasks/tree/master/Tasks/AzureKeyVaultV2) - contains a "prejob"
 
 ### Build Agents
 
 - [actions/runner-images](https://github.com/actions/runner-images)
+- [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent)
+  - [Handlers](https://github.com/microsoft/azure-pipelines-agent/tree/master/src/Agent.Worker/Handlers)
+
+### Azure DevOps APIs
+
+- [Azure DevOps REST API (Home)](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.2)
+- [azure-devops-extension-api package](https://learn.microsoft.com/en-us/javascript/api/azure-devops-extension-api/)
+- [.NET SDK](https://learn.microsoft.com/en-us/dotnet/api/?view=azure-devops-dotnet&preserve-view=true)
+
+PAT Tokens:
+
+- [List of available scopes](https://learn.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops#scopes)
+ 
+### Extensions Development
+
+- [Extensions manifest reference](https://learn.microsoft.com/en-us/azure/devops/extend/develop/manifest?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops)
+- [tasks.schema.json](https://github.com/Microsoft/azure-pipelines-task-lib/blob/master/tasks.schema.json)
