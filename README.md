@@ -50,3 +50,7 @@ PAT Tokens:
 - [microsoft/azure-pipelines-task-lib](https://github.com/microsoft/azure-pipelines-task-lib/tree/master)
   - [node](https://github.com/microsoft/azure-pipelines-task-lib/tree/master/node)
   - [powershell](https://github.com/microsoft/azure-pipelines-task-lib/tree/master/powershell)
+
+### Wiki
+
+- [list of markdown emojis](https://gist.github.com/rxaviers/7360908)
