@@ -53,8 +53,8 @@ PAT Tokens:
 
 ### Azure DevOps Product Team
 
-- [Azure DevOps Roadmap][https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline]: follow the release by week to see the latest features.
-- [Current Sprint][https://whatsprintis.it]: the ADO team releases roughly every 3 weeks. This shows the current sprint + week which can be used as a soft indicator for the timing of the next feature release.
+- [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline): follow the release by week to see the latest features.
+- [Current Sprint](https://whatsprintis.it): the ADO team releases roughly every 3 weeks. This shows the current sprint + week which can be used as a soft indicator for the timing of the next feature release.
 
 ### Wiki
 
